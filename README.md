@@ -4,6 +4,6 @@ This project aims to design and deploy an ML algorithm using Streamlit to predic
 
 The app can be tested using this [link](https://hepathitis-c-prediction-paper-hjh7gacytwtitdgquivqwv.streamlit.app/)
 
-We are currently working on the paper which will be released soon.
+
 
 
